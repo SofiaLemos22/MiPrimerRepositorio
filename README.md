@@ -1,2 +1,2 @@
 # MiPrimerRepositorio
-La siguiete prueba es la prueba de mi primer repositorio en GitHub
+La siguiete prueba es sobre mi primer repositorio en GitHub
